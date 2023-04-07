@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(168, 160, 160);
+    display:flex;
+}
+.headings{
+    color: azure;
+}
+.result{
+    color:blueviolet;
+}
+.Game-Name{
+    font-size: 40px;
+    color: rgb(42, 155, 165);
+    text-decoration:wavy;
+    margin-bottom: 50px;
+}
+
+.head{
+  margin:auto;
+
+}
+.btn{
+    border-radius: 5px;
+    padding : 3px;
+    text-align: center;
+    transition-duration: 0.4s;
+}
+
+.btn:hover{
+    background-color: rgb(84, 139, 157);
+}
